@@ -1,0 +1,19 @@
+{
+  "name": "exchange-rate-calculator",
+  "version": "1.0.0",
+  "description": "A simple app for changing currencies.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "keywords": [
+    "exchange",
+    "rate",
+    "currency"
+  ],
+  "author": "Vahid Khodadadi",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
